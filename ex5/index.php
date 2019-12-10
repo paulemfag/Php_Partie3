@@ -2,7 +2,7 @@
 include '../header.php';
 $page = 'Exercice 5';
 ?>
-<p><<?php
+<?php
 $loop = 1;
 $text = 'on y arrive presque';
 echo $loop . $text;
